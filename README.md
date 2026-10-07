@@ -1,7 +1,8 @@
-# Cast Box
+# CastBox
+*A voxel-based VR 3D creation tool for creating and editing immersive 3D artwork*
 
-
-## Create + 3D Print
+## Gundam in VR — From Creation to 3D Printing
+Created a Gundam model entirely in VR and exported it for 3D printing, demonstrating a complete workflow from immersive creation to a physical object.
 <td width="33%">
   <img width="404" height="404" alt="4727c1d7-6607-4aff-9643-1a076f14eef9" src="https://github.com/user-attachments/assets/5b41019e-7f08-40bf-b628-c0057fec49ad" />
 </td>    
@@ -16,12 +17,15 @@
   </tr>
 </table>
 
-## VR Art Creation with CastBox - KudoAlbus's Artwork
+## KudoAlbus — Expressive Voxel Art in VR
+KudoAlbus explores artistic creation in VR using a rich set of voxel brushes. Rich colors and materials, fluid brush interactions, fine voxel details, and a smooth 90 FPS experience make VR creation feel natural and immersive.
 <img width="2537" height="1427" alt="微信图片_20261007133455_47_38" src="https://github.com/user-attachments/assets/efba9d43-36b7-46d0-b8cb-3f9c77f3bb50" />
 
 [▶ Watch the original video on Bilibili](https://www.bilibili.com/video/BV1vx411B7Yf?t=60)
 
-## Community Creations
+## Community Creations — Anyone Can Create
+A few small creations from community members, showing how CastBox makes 3D art creation approachable and accessible to everyone.
+<img width="800" height="340" alt="微信图片_20261007135630_48_38" src="https://github.com/user-attachments/assets/5ba42da0-4562-48c1-991e-6c24311b2bec" />
 <table>
   <tr>
     <td width="60%">
